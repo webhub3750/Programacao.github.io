@@ -235,3 +235,8 @@ a:hover {
 h2 {
   margin-left: 5px;
 }
+
+@media screen and (max-width: 767px) {
+  /* Aqui você pode ajustar estilos específicos para telas menores */
+  /* Por exemplo, reduzir fontes, ajustar margens, etc. */
+}
