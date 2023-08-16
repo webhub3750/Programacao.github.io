@@ -90,11 +90,11 @@ footer {
 .banner {
   display: flex;
   justify-content: center;
-  padding: 0px 0; /* Espaçamento superior e inferior do banner */
+  padding: 10px 0; /* Espaçamento superior e inferior do banner */
 }
 
 .banner img {
-  width: 1350px; /* Garante que a imagem não ultrapasse o contêiner */
+  width: 1000px; /* Garante que a imagem não ultrapasse o contêiner */
   height: auto;
 }
 
