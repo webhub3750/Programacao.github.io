@@ -94,7 +94,7 @@ footer {
 }
 
 .banner img {
-  width: 1500px; /* Garante que a imagem não ultrapasse o contêiner */
+  width: 1400px; /* Garante que a imagem não ultrapasse o contêiner */
   height: auto;
 }
 
